@@ -1,9 +1,9 @@
 # vsto1
 In short:
-- the "add in" writes to a file on the local machine 
-- a python aplication is taling the file and takes action (did not creat this)
+- the "add in" writes to a file on the local machine the selcted/ needed actions 
+- a python aplication is tailing the "log file" and takes action based on some contract (did not create this)
 
-How to: 
+How to run this POC: 
 - install Visual Studio on a windows machine 
 - Open this VSTO aplication 
 - Click "Start"
@@ -11,7 +11,6 @@ How to:
 - open the "add in" and "click here "
 - assumes this file "C:\Users\mldvn\test\WriteLines.txt" exits (you can hardcode any path here)
 - will write 3 lines to the txt file
-
 
 Resources:
 - https://timdams.com/2017/05/09/how-to-create-a-simple-outlook-vsto-addin-a-step-by-step-guide/
